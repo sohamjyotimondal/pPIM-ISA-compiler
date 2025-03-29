@@ -17,7 +17,7 @@ A hybrid compiler that bridges high-level code (C++/Python) to pPIM architecture
 → (Frontend) → [Optimized IR]
 → (Pattern Matcher) → [pPIM Instructions]
 → (Backend) → [Executable .ppimbin]
-![Instruction Format](results\architecture.jpg)
+![Instruction Format](https://github.com/sohamjyotimondal/pPIM-ISA-compiler/blob/main/results/architecture.jpg)
 
 
 ## Dependencies
