@@ -59,9 +59,14 @@ A hybrid architecture for a cpp compiler that bridges high-level code (C++/Pytho
 
 ![Final MACHINE CODE](https://github.com/user-attachments/assets/da02f006-82d2-4073-9100-f83465a9f13c)
 
+### **Python to CPP Code**
+  - This helps us use Python as our HLL and convert to the given machine code using the existing pipeline via cpp
+  - [Readme](python2cpp/Readme.md)
+    
 ### **Python to Intermediate Representation**
-[Intermediate code](python2LLVM_IR/matrix_multiplication.ll)
-
+  - A more direct pipeline to convert to llvm IR directly using llvmlite
+  - [Readme](python2LLVM_IR/Readme.md)
+  - [Intermediate code](python2LLVM_IR/matrix_multiplication.ll)
 
 
 
