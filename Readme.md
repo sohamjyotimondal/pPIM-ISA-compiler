@@ -53,6 +53,15 @@ A hybrid compiler that bridges high-level code (C++/Python) to pPIM architecture
 4. **ROW Address (Bits 0-8)**:
    - Specifies the target row in memory for read/write operations.
    - Supports addressing up to **512 rows** per subarray.
+     
+## Result
+### **Final Machine Code**
+
+![Final MACHINE CODE](https://github.com/user-attachments/assets/da02f006-82d2-4073-9100-f83465a9f13c)
+
+### **Python to Intermediate Representation**
+[Intermediate code](python2LLVM_IR/matrix_multiplication.ll)
+
 
 
 
