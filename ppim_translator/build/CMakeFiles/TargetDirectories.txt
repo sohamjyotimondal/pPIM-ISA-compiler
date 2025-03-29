@@ -1,0 +1,3 @@
+/home/kali/Compiler3/ppim_translator/build/CMakeFiles/ppim_translator.dir
+/home/kali/Compiler3/ppim_translator/build/CMakeFiles/edit_cache.dir
+/home/kali/Compiler3/ppim_translator/build/CMakeFiles/rebuild_cache.dir
