@@ -1,7 +1,7 @@
 # pPIM Compiler Pipeline 
 
 **Translate C++/Python to pPIM ISA**  
-A hybrid compiler that bridges high-level code (C++/Python) to pPIM architecture through optimized LLVM-based tooling.
+A hybrid architecture for a cpp compiler that bridges high-level code (C++/Python) to ISA for pPIM architecture.
 
 ## Key Features
 - **24-bit ISA Support**: Native encoding for pPIM operations (NOOP, PROG, MAC ,EXEC)
